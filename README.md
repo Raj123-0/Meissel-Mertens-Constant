@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
 ===============================================================================
 PROJECT: Meissel-Mertens Constant Computation Engine
 ===============================================================================
@@ -11,3 +14,9 @@ ALGORITHM & MATHEMATICS:
 - Möbius Inversion Series:
     M_1 = gamma + sum_{k=2}^{infinity} (mu(k) / k) * ln(zeta(k))
 - Evaluated with Euler-Mascheroni constant and logarithmic Riemann Zeta values.
+
+## Usage
+
+```bash
+python "Meissel-Mertens Constant.py" --help
+```
